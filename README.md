@@ -12,6 +12,8 @@ We are **Love Yours Media**, an independent design and development studio in Man
 
 [![FORME HOUSE — editorial fashion-house design](assets/forme-house.png)](https://github.com/LYM-loveyours/brand-house-showcase)
 
+[Explore FORME HOUSE live](https://lym-loveyours.github.io/brand-house-showcase/) · [Explore the website studies](https://lym-loveyours.github.io/service-website-showcases/)
+
 **FORME HOUSE** · A fictional fashion house, five distinct labels and a complete editorial website.
 
 | Explore | What it demonstrates |
